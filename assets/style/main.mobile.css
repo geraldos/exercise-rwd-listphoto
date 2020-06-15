@@ -1,0 +1,9 @@
+div {
+    display: inline-block;
+    justify-content: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 100%;
+}
